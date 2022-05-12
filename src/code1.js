@@ -1,0 +1,5 @@
+
+function Printpage()
+{
+    window.print();
+}
